@@ -1,0 +1,1 @@
+DATABASE_URI = 'postgresql+psycopg2://postgres:??@localhost:5433/Newdb'
